@@ -1,0 +1,38 @@
+.profile
+{
+    width: 150px;
+    margin-left: 15px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+.cat
+{
+    width: 120px;
+    height: 150px;
+    object-fit: cover;
+    padding-left: 10px;
+}
+.oli{
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+    padding-left: 10px;
+    margin-bottom: 0px;
+}
+.frd
+{
+    margin-top: 5px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+}
+.add
+{
+    background-color: rgb(24, 119, 242);
+    font-size: 16px;
+    border: none;
+    color: white;
+    height: 30px;
+    width: 110px;
+    margin-left:  10px;
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
