@@ -1,0 +1,14 @@
+.service
+{
+    width: 400px;
+    height: 130px;
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-top: 8px;
+}
+.p
+{
+    font-size: 25px;
+    font-weight: bold;
+}
