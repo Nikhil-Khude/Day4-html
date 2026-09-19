@@ -1,0 +1,14 @@
+.grid
+{
+display: grid;
+grid-template-columns: 200px 75px;
+}
+.p1
+{
+    background-color: rgb(15, 200, 236);
+
+}
+.p2
+{
+    background-color: rgb(219, 28, 230);
+}
