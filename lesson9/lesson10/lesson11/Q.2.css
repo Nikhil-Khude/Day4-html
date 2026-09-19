@@ -1,0 +1,18 @@
+.grid
+{
+    display: grid;
+    grid-template-columns: 75px 200px 75px;
+}
+.col1
+{
+background-color: rgb(228, 196, 158);
+
+}
+.col2
+{
+    background-color: rgb(191, 148, 231);
+}
+.col3
+{
+    background-color: rgb(116, 216, 216);
+}
