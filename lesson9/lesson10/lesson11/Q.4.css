@@ -1,10 +1,10 @@
 .grid
-{
+
     .grid {
   display: grid;
   grid-template-columns: 200px 200px 200px;
   column-gap: 20px;
-}
+    }
 .cat
 {
     width: 120px;
@@ -40,10 +40,9 @@
 
 .profile1
 {
-    width: 150px;
-    margin-left: 15px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
-    display: inline-block;
+    display: grid;
+  grid-template-columns: 200px 200px 200px;
+  column-gap: 20px;
 }
 .dog
 {
@@ -81,10 +80,9 @@
 
 .profile2
 {
-    width: 150px;
-    margin-left: 15px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
-    display: inline-block;
+   display: grid;
+  grid-template-columns: 200px 200px 200px;
+  column-gap: 20px;
 }
 .doneky
 {
