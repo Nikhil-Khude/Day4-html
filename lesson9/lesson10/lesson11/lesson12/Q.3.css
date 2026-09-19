@@ -1,0 +1,27 @@
+.grid
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.col1
+{
+    background-color: antiquewhite;
+    width: 50px;
+
+}
+.col2
+{
+   background-color: antiquewhite;
+    width: 50px;  
+}
+.col3
+{
+     background-color: antiquewhite;
+    width: 50px;
+}
+.col4
+{
+     background-color: antiquewhite;
+    width: 50px;
+}
