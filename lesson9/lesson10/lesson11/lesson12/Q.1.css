@@ -1,0 +1,19 @@
+.grid
+{
+    display: flex;
+    flex-direction: row;
+
+}
+.flex1
+{
+    background-color: antiquewhite;
+    width: 200px;
+    display: inline-block;
+
+}
+.flex2
+{
+    background-color: aqua;
+    width: 75px;
+    display: inline-block;
+}

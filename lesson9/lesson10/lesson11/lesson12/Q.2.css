@@ -2,18 +2,20 @@
 {
     display: flex;
     flex-direction: row;
+}
+.col1
+{
+background-color: rgb(228, 196, 158);
+width: 50px;
 
 }
-.flex1
+.col2
 {
-    background-color: antiquewhite;
-    width: 200px;
-    display: inline-block;
-
+    background-color: rgb(191, 148, 231);
+    flex: 1;
 }
-.flex2
+.col3
 {
-    background-color: aqua;
-    width: 75px;
-    display: inline-block;
+    background-color: rgb(116, 216, 216);
+    width: 50px;
 }
