@@ -1,0 +1,39 @@
+.box
+{
+    
+    width: 320px;
+    border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  border-radius: 6px;
+
+}
+.noti
+{
+   display: flex;
+   flex-direction: row;
+   width: 300px;
+   border-style: solid;
+   border-width: 1px;
+   border: none;
+   justify-content: space-between;
+   margin-top: 12px;
+   padding-left: 10px;
+   padding-bottom: 10px;
+   font-size: 16px;
+
+    
+}
+.button
+{
+    background-color: rgb(49, 109, 245);
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+}
