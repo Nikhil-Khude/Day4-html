@@ -1,0 +1,55 @@
+.box
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+.dp
+{
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+  margin-right: 15px;
+
+}
+.info
+{
+    width: 200px;
+}
+.name
+{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.bio
+{
+    color: rgb(150, 150, 150);
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: 16px;
+}
+.popular
+{
+    color: rgb(150, 150, 150);
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 16px;
+
+}
+.follow-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 4px;
+  cursor: pointer;
+}
